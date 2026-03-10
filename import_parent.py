@@ -20,7 +20,7 @@ def _count_levels(path: str) -> int:
     return levels
 
 
-def import_parent(path: Union[str, int] = "..") -> str:
+def add_parent_to_path(path: Union[str, int] = "..") -> str:
     """
     Add a parent directory (relative to the caller) to sys.path.
 
