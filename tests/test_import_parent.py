@@ -1,6 +1,5 @@
 import sys
 import os
-import tempfile
 from import_parent import add_parent_to_path
 
 
