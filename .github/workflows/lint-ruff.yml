@@ -18,7 +18,7 @@ jobs:
         run: pipx install ruff
 
       - name: Apply lint findings with Ruff
-        run: ruff check --fix --target-version=py39
+        run: ruff check --fix
 
       - name: Format code with Ruff
         run: ruff format
