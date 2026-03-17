@@ -1,0 +1,4 @@
+sphinx>=4.0
+myst-parser
+sphinx-rtd-theme
+sphinxcontrib-napoleon
