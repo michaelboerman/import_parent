@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "import_parent"
-version = "1.0.0"
+version = "1.1.0"
 authors = [
   { name="Michael Boerman", email="michaelboerman@hey.com" },
 ]
@@ -20,3 +20,4 @@ classifiers = [
 [project.urls]
 Homepage = "https://github.com/michaelboerman/import_parent"
 Issues = "https://github.com/michaelboerman/import_parent/issues"
+Documentation = "https://import-parent.readthedocs.io/en/latest/"
