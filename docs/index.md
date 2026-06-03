@@ -1,6 +1,13 @@
-# import_parent documentation — Diátaxis layout
+# import_parent documentation
 
-Welcome to the import_parent documentation.
+This documentation is organized with the Diátaxis framework so each page has a
+clear purpose:
+
+- Tutorials help you get started.
+- How-to guides solve a specific task.
+- Explanations describe why the helper exists and how it fits into Python
+  project layouts.
+- Reference pages document the API.
 
 ```{toctree}
 :titlesonly:
