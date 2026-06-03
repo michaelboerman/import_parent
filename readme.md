@@ -1,5 +1,11 @@
 # import-parent
 
+[![PyPI version](https://img.shields.io/pypi/v/import-parent)](https://pypi.org/project/import-parent/)
+![License](https://img.shields.io/pypi/l/import-parent)
+![Python versions](https://img.shields.io/pypi/pyversions/import-parent)
+
+![alt text](logo.png)
+
 https://import-parent.readthedocs.io/
 
 `import_parent` is a tiny helper for Python projects that need to import code
